@@ -7,12 +7,7 @@ Este projeto contém um efeito Hover bem bacana. O efeito Hover funciona, basica
 
 Link do projeto: https://luccasmarinho.github.io/Card-Links/
 
-### Visualização do projeto:
-
- ![principal](https://github.com/Luccasmarinho/Card-Links/assets/138074678/1a17bec4-2fb0-4484-a0df-e9cdf8282d67)
-
- 
-### Efeito Hover: 
+#### Visualização do projeto com o efeito Hover:
 
 ![hover](https://github.com/Luccasmarinho/Card-Links/assets/138074678/7fbac517-6b00-4fba-a30b-29093ea5e4c4)
 
