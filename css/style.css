@@ -114,6 +114,7 @@ nav a:nth-child(1):hover{
     background-image: url('../imagens/wpp.webp');
     background-size: 99%;
     background-position: 2000%;
+    text-shadow: 1px 1px 2px black;
 } 
 
 
@@ -124,6 +125,7 @@ nav a:nth-child(2):hover {
     background-image: url('../imagens/youtubelogo.png');
     background-size: 99%;
     background-position: 2000%;
+    text-shadow: 1px 1px 2px black;
 } 
 
 
@@ -133,7 +135,7 @@ nav a:nth-child(3):hover {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 200%;
-    
+    text-shadow: 1px 1px 4px black;
     
 }
 
@@ -144,6 +146,7 @@ nav a:nth-child(4):hover {
     background-size: 90%;
     background-repeat: no-repeat;
     background-position: 200%;
+    text-shadow: 1px 1px 2px black;
 }
 
 nav a:nth-child(5):hover {
@@ -154,6 +157,7 @@ nav a:nth-child(5):hover {
     background-repeat: no-repeat;
     background-position: 80% top;
     color: black;
+    text-shadow: 1px 1px 2px black;
 }
 
 
@@ -164,6 +168,7 @@ nav a:nth-child(6):hover {
     background-size: 90%;
     background-repeat: no-repeat;
     background-position: 150%;
+    text-shadow: 1px 1px 3px black;
 }
 
 
